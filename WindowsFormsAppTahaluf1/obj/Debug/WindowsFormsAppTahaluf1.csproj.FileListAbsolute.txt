@@ -1,9 +1,0 @@
-C:\Users\butoo\source\repos\WindowsFormsAppTahaluf1\bin\Debug\WindowsFormsAppTahaluf1.exe.config
-C:\Users\butoo\source\repos\WindowsFormsAppTahaluf1\bin\Debug\WindowsFormsAppTahaluf1.exe
-C:\Users\butoo\source\repos\WindowsFormsAppTahaluf1\bin\Debug\WindowsFormsAppTahaluf1.pdb
-C:\Users\butoo\source\repos\WindowsFormsAppTahaluf1\obj\Debug\WindowsFormsAppTahaluf1.csproj.AssemblyReference.cache
-C:\Users\butoo\source\repos\WindowsFormsAppTahaluf1\obj\Debug\WindowsFormsAppTahaluf1.Properties.Resources.resources
-C:\Users\butoo\source\repos\WindowsFormsAppTahaluf1\obj\Debug\WindowsFormsAppTahaluf1.csproj.GenerateResource.cache
-C:\Users\butoo\source\repos\WindowsFormsAppTahaluf1\obj\Debug\WindowsFormsAppTahaluf1.csproj.CoreCompileInputs.cache
-C:\Users\butoo\source\repos\WindowsFormsAppTahaluf1\obj\Debug\WindowsFormsAppTahaluf1.exe
-C:\Users\butoo\source\repos\WindowsFormsAppTahaluf1\obj\Debug\WindowsFormsAppTahaluf1.pdb
